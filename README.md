@@ -1,5 +1,5 @@
 # video of pest detection platform based on SSV2-YOLO
-We have created a human-computer interface for SCA image or video detection.You can dounload the video to view the detection effect.
+We have created a human-computer interface for SCA image or video detection. You can dounload the video to view the detection effect.
 
 # Evaluation_metrics
 You can click Evaluation_metrics.py to view the code used to evaluate the model.
