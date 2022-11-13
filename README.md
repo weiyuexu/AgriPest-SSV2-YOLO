@@ -1,8 +1,8 @@
-# video of pest detection platform based on SSV2-YOLO
-We have created a human-computer interface for SCA image or video detection. You can dounload the video to view the detection effect.
+# Video of pest detection platform based on SSV2-YOLO model
+A software of sugarcane aphid image/video detection was built. You can find the DEMO video here.
 
-# Evaluation_metrics
-You can click Evaluation_metrics.py to view the code used to evaluate the model.
+# Evaluation metrics
+The code of evaluation matrics in our paper was illustrated here, including mAP, Precision, Recall, and speed (FPS).
 
 # Validation data
-We randomly selected 20% of the images from the WD-860 dataset as validation data. In the folder of Validation data, you can see 172 pictures detected by the model of SSV2-YOLO.
+Images of 172 (20%) were selected from dataset-860 as the validation data in our paper. You can find detection results using SSV2-YOLO model here.
