@@ -7,3 +7,5 @@ The code of evaluation matrics in our paper was illustrated here, including mAP,
 # Video of pest detection platform based on SSV2-YOLO model
 A software of sugarcane aphid image/video detection was built. You can find the DEMO video here.
 
+# Video of SCAs detection with Tello UAV based on SSV2-YOLO model
+A UAV platform of sugarcane aphid online detection was built. You can find the DEMO video here.
